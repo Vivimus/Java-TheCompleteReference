@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1207ed6-4463-4fc1-a422-dc051bec1b4a" name="Default Changelist" comment="" />
+    <list default="true" id="b1207ed6-4463-4fc1-a422-dc051bec1b4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DynInit.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Char.java">
+        <entry file="file://$PROJECT_DIR$/src/DynInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="230">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -40,6 +42,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Char.java" />
+        <option value="$PROJECT_DIR$/src/DynInit.java" />
       </list>
     </option>
   </component>
@@ -49,7 +52,9 @@
     <option name="width" value="1524" />
     <option name="height" value="1922" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -61,6 +66,11 @@
             <path>
               <item name="Java_The_Complete_Reference" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_The_Complete_Reference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_The_Complete_Reference" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_The_Complete_Reference" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -93,9 +103,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Char" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.DynInit">
+    <configuration name="Char" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Char" />
+      <module name="Java_The_Complete_Reference" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DynInit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DynInit" />
       <module name="Java_The_Complete_Reference" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,7 +120,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Char" />
+        <item itemvalue="Application.DynInit" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559177515964</updated>
-      <workItem from="1559177518517" duration="1284000" />
+      <workItem from="1559177518517" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="2nd commit?">
       <created>1559178573044</created>
@@ -130,10 +147,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1284000" />
+    <option name="totallyTimeSpent" value="2299000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="40" width="677" height="854" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -146,7 +164,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" weight="0.32904148" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32904148" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32904148" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -178,6 +196,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DynInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
         </state>
       </provider>
     </entry>
